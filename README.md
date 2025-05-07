@@ -74,7 +74,7 @@
 - **Malavika M :** https://github.com/malavika58
 - **Amrah K S :**
 - **Ishan Sajeev :**
-- **A C Govardhan** 
+- **A C Govardhan** https://github.com/acgovardhan
 
 ---
 
